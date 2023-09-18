@@ -1,7 +1,7 @@
 # Introducción
 En este repositorio se encuentra diferentes scripts desarrollados previo a la obtención de modelos de aprendizaje automático para el trabajo de titulación con el tema "Clasificación de ataques mediante técnicas de aprendizaje automático en Redes Definidas por Software" en la carrera de Ingeniería en Tecnologías de la Información de la Universidad de las Fuerzas Armadas ESPE. 
 # Contenido
-Para el proyecto desarrollado, se utiliza las metodologías KDD (Knowledge Discovery in Databases) que contiene cinco fases y EDA (Exploratory Data Analysis). Sin embargo, en este repositorio constan cuatro fases y la quinta se encuentra en el repositorio [app_sdn](https://github.com/Mianca05/app_sdn) el cual es la fase de despliegue. La siguiente imagen muestra la aplicación de estas metodologías:
+Para el proyecto desarrollado, se utiliza las metodologías KDD (Knowledge Discovery in Databases) que contiene cinco fases y EDA (Exploratory Data Analysis). Sin embargo, en este repositorio constan cuatro fases y la quinta se encuentra en el repositorio [app_sdn](https://github.com/Mianca05/app_sdn), el cual es la fase de despliegue. La siguiente imagen muestra la aplicación de estas metodologías:
 
 ![Metodologia KDD](KDD_EDA.png)
 *Nota*: Metodología KDD para obtener modelos de ML y  EDA para la exploración, limpieza y transformación de datos.
